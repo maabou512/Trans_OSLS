@@ -1,0 +1,701 @@
+Squaw Valley California did everybody
+get up here okay any travel issues at
+all wasn't as bad as last year we have a
+special announcement at the end of the
+vent about next year's location which be
+much more difficult place to get to it
+also tonight's evening reception don't
+forget to enjoy a mudslide we're going
+to be having those available for
+everyone too soon too soon all right
+well happy Valentine's Day everyone
+thank you also for spending your
+Valentine's Day with us yes yes as does
+mine but one of that we
+wanted you know as these this event
+evolved and next year we'll try not to
+put it on Valentine's Day but we do want
+ encourage people to bring their
+family along I don't know if everyone
+was aware of this i hope it meets most
+of you were we have free childcare at
+the event this week we have lots and
+lots of parents who bought their
+children this week to the event
+including mine you may see my
+eight-year-old daughter running around
+but we really want to make this an event
+where people can come and enjoy
+themselves and the most important thing
+ of this event
+hopefully for all of you is that all of
+you will build better relationships with
+each other and to that end what I really
+encourage you to do this week is to get
+to know people who you don't know
+already this week we really this year's
+crowd is incredibly specially we have an
+amazing group of people from all aspects
+of open source you people who are
+leading open source program office
+people who are running and managing some
+of the biggest open source projects in
+the world folks who are deploying open
+source to billions and billions of
+subscribers in the telecom space people
+who are using open source to create
+production automobiles it's just all
+locks of open source are at this event
+this week and what we've done is
+structured our time so that there's lots
+of opportunity
+network to get to know each other we've
+emphasized the hallway track and I hope
+ take advantage of
+that that opportunity I do want to take
+a minute to thank our sponsors including
+Intel VMware Delhi MC and IBM let's give
+them a quick round of applause as i
+mentioned we're having a reception
+tonight at five thirty in the ballroom
+fire again mud slides will be available
+in addition to beer and wine and then
+tomorrow going to have
+themed receptions throughout the hotel
+this will be an opportunity for people
+to go to sort of different thematic
+network get-togethers and really again
+get to know each other so that we can
+all do good work together in the future
+and then we also have an open space for
+unconference session so if you have a
+topic you'd like to discuss ah the
+signup board is in the foyer so just go
+ahead and find the unconference session
+sign up and people will be able to do
+that as well so again I want to thank
+all of you for coming and then give you
+a little linux
+foundation is at this year this is our
+annual member event and we're really
+happy year
+we just at this
+event this been a good
+year for the linux foundation in 2017 is
+already shaping up to be a really good
+year you know one of the things that
+we're really focused on is having a big
+impact on creating the greatest shared
+technology investment in the world and
+it's not just us you know our mission
+really is to create the largest share of
+technology investment in the world by
+making open source code available for
+anyone to use to propose it's
+not just the Linux Foundation there are
+other foundations it's Mike malinka
+bitching around here somewhere from the
+Eclipse right there Mike malinka bitch
+from the Eclipse Foundation in the back
+of the room there thank you for coming
+his organization like ours is again
+dedicated to the same thing to
+make a lot of source code available to
+as many people as possible and on the
+linux foundation's and to that end we've
+had in the number of
+organizations and people that we work
+with I think the 827 member companies
+the most foundation is already out of
+date like Michael boosters around here
+somewhere we it's about 50 out of date
+so we're going to we're going to
+probably break a thousand organizations
+participating in the Linux Foundation
+this year which is a big milestone the
+thing I'm most proud about that is the
+fact that companies that are coming in
+now from wholesale new sectors that
+hadn't done a lot of open source work in
+the past telecom automotive etc are
+really learning how to do shared
+software development understanding the
+intellectual property regimes that open
+source represent and just sort of
+greasing the skids for broader low of
+code which is incredibly important if
+your admission is to create the greatest
+shared technology resource in the world
+last year we had over 20,000 attendees
+at 150 events from 85 different
+countries it's it is crazy where is
+Angela and her team around here
+somewhere let's give them a quick round
+of applause
+what we're going to add another 50
+events this year aunt Angela
+screaming right not actually
+ and reduce the number
+of n so we're combining some of events
+but I'm going to talk about that in a
+little bit one thing you might not know
+about the Linux Foundation is we do a
+lot of training we've trained over
+800,000 students most of whom are take
+our training courses at no cost we are
+trying sure that the projects
+that we work with have a set of
+practitioners and developers that can
+further increase the adoption of that
+particular code not only that we have
+training programs that are trying to
+help the diversity in our communities
+both in terms of gender we offer free
+training scholarships for women's
+organizations all over the world we've
+also partnered with the goodwill in
+Austin Texas where we're working with
+people in poverty to give them job
+skills technical skills through our
+training curriculum and through a
+hands-on mentor program to lift those
+folks out of poverty single parents
+folks who've seen hard times folks who
+need good jobs a few
+of the things we're doing around
+training we're creating at the Linux
+Foundation we did a little tally across
+all the projects that just we're hosting
+about 14 billion dollars worth of value
+if you measure up the lines of code and
+how much it cost on average to create a
+line of code it's billions and billions
+of dollars worth of value and certainly
+Linux itself just continues to dominate
+almost every aspect of modern computing
+it runs almost all high performance
+computing systems the majority of mobile
+devices embedded systems most of the
+world's economy the internet it's safe
+to say runs on Linux so we're going to
+continue and we hope all of you join us
+and we know you're already working with
+us to on those big outcomes
+how can we really move the needle with
+shared open-source software to really
+make big impact on both industry and
+society and you know one of the things
+that I get asked about all the
+I'm is you know you're doing so much
+more than Linux when are you going to
+change Foundation
+and my response to that is I just made
+up like all these vests and gave them
+away to Africa pocket we're not change
+in pin Hagan at least that for now but
+no no name change but we really have
+gone beyond Linux some of you may be
+aware but many of you might not be aware
+that of work around security
+you're going to hear from Bruce Schneier
+in a minute here about a world that is
+facing increasing difficulty in trouble
+when it comes to cyber security privacy
+and other things we have an initiative
+Oh that we're working with here called
+let's encrypt there anyone here from the
+let's encrypt projects a few people
+ some folks let's encrypt is a free
+certificate authority the idea behind
+let's encrypt is to make HTTP as the
+default for the Internet to secure all
+internet traffic by creating a free
+certificate authority this in 2016 for
+the first time ever more than fifty
+percent of internet traffic was secure
+in large part thanks to let's encrypt we
+can literally chart where let's encrypt
+started to when the move the needle
+started moving up in terms of secure
+traffic across the internet and we want
+to get that as high as we possibly can
+our core infrastructure initiative is
+working with projects that are sort of
+the intersection between incredibly
+important for the security integrity of
+the global Internet and kind of screwed
+up screwed up in terms of difficulty
+getting funding have a requirement for
+third-party audit need additional
+eyeballs on the code things like openssl
+ntpd other projects we're really that
+initiative is about creating a culture
+of secure coding practices for all open
+source projects and helping fix open
+source projects that haven't
+traditionally gotten resources but are
+important to society by providing them
+funding and other resources as well if
+you haven't seen the core infrastructure
+initiative badging program which has
+been adopted by some of
+biggest open source projects in the
+world check it out this is a way for
+your project to indicate that you follow
+secure coding practices have responsible
+disclosure policy have a more efficient
+way of making sure that security is part
+and parcel to everything you do in code
+in the networking sector we have lots of
+new open source projects and that's only
+getting bigger we're working with the
+largest global operators in the world
+you're going to hear this week from
+organizations like AT&T last year we
+partnered with China Mobile to announce
+a management orchestration platform
+they're essentially open sourcing the
+network infrastructure that provides
+service to billions of people all over
+the world we're doing a lot of good work
+to harmonize those projects you're going
+to hear about throughout this week
+in the cloud or cloud native computing
+foundation with a project such as Cooper
+Nettie's from me theists and others is
+really leading the way in terms of the
+modern micro service and container based
+application development methodology that
+that really is defining the way people
+build apps today Cloud Foundry another
+example of a platform that's being used
+to create incredibly important
+technology solutions for governments and
+organizations throughout the world our
+automotive Dan
+kouchi in the room maybe not i did see
+him at the bar late last night this is
+is such a sleeper project linux
+foundation that's going to have a huge
+impact just as more and more production
+vehicles roll out with the AGL code in
+it this is CES this year Daimler
+announced that they're joining our
+automotive grade Linux initiative so now
+we have Toyota daimler and a dozen of
+the world's biggest automotive OEMs all
+working together to create the future
+automotive middleware and informatics
+systems that really define what an
+automotive cockpit experience it looks
+like and then finally uh last year in
+December I think with pretty much there
+no we
+we rolled of
+work in December uh this month i think
+ our block
+chain initiative hyper lecher Brian
+mellendorf will be here this week to
+talk about it he runs that particular
+initiative at the Linux Foundation
+you're going to hear from Chris Ferris
+from IBM about blockchain but
+distributed lejacq technology is no
+doubt changing the way that people are
+creating trust transactions on the
+ the
+new trust protocol for the internet
+hyper Ledger's technologies are being
+deployed in financial service
+applications that are really modernizing
+the financial service back office you
+know it takes a nanosecond to make a
+trade with high-frequency trading
+systems and it takes a week or two to
+reconcile that trade on the back office
+all that's going to be changed as large
+organizations start using distributed
+ledger technology to manage that back
+office a trade will take
+seconds minutes instead of days and
+weeks and blockchain technology isn't
+just about financial services you're
+going to hear about how the hyper ledger
+project is helping to work with
+organizations like De Beers to track in
+an immutable way the provenance of
+diamonds in order to get blood diamonds
+out of the system working with
+governments to create immutable
+transparent land registration systems to
+prevent corruption in those governments
+and to create a better society so as you
+can see the linux foundation is working
+on a much neater i haven't mentioned all
+of our projects into those that haven't
+mentioned but i can only do
+so much in short period of time we're
+working on a lot more than linux the
+question that this group should ask the
+leadership source and many of
+our projects is why do we need
+open-source foundations why do we need
+the Linux Foundation like I won't speak
+for you but it's a good question and you
+know this something that in today's
+political world has also come to a light
+and recently we in this sort of make
+sense we've seen a flurry of executive
+orders and of the question came up in DC
+as we
+I'll give you a second to read the order
+yeah too soon like we're in California
+is an open source of that I figured this
+is pretty safe crowd by the way this
+order I'm not sure about but there was
+another order related to the Linux
+kernel where for every which is bloated
+and sad and for every line of code added
+to the colonel two lines of code must be
+removed that one actually makes a lot
+more sense to me but you know it's a
+good question why do you need a
+foundation you know there are millions
+of open source projects out there I
+think this also out of date
+how what's the latest is anyone here
+from github what's the latest github
+repo number is it 50 1,000,000 is that
+right whole week I got man this is
+really I didn't make this very long ago
+that 51 million open
+source repository on github sourceforge
+you know around a half a billion we've
+got the asf with over 175 projects 300
+in another managing around 300 and
+another 15 incubation Mike idea I hope
+I'm viewing your service here about 163
+projects is that roundabout oh my God
+look at this my numbers they're terribly
+wrong my apologies the Pope no problem
+no problem the point is there's a lot of
+open source projects out there the real
+question is which ones matter which ones
+matter you know I mean does do the
+remaining 30 million projects out there
+that somebody put up for a good put
+reason you know maybe they were working
+on a PhD thesis or it was an undergrad
+who is working on some experiment the
+question I think to all of you so those
+who run the profession of open source of
+commercializing it of taking meaningful
+dependency upon it right in the case of
+some of the blockchain initiatives where
+we're working with governments to take a
+societal dependency upon an open source
+project you really have to under
+stand which matter where is that value
+related to the number of projects and
+and that's where think that we want
+we think foundations should focus
+helping projects create sustainable
+ecosystem these are the ones that end up
+mattering and they kind of grow up into
+the left in that if you look at this
+chart you know if you think about
+foundations are trying to do we're
+trying to kind of grow up into left in
+this slide this look at reverse I always
+liked up
+into the right it's just to Silicon
+Valley you know but the best projects
+the projects that are meaningful and you
+can count on for decades to come are
+those who have a good developer
+community solving a really big problem
+where that code is used to create real
+value value in the form of profit for
+companies many of the companies that you
+work for take open source code create
+products or services and create real
+profit that then is in turn reinvested
+back into the project and when I say
+reinvested back into the project I don't
+mean reinvested back into a foundation
+the foundations and Mike you're to
+have to back me up on this like a tiny
+little sliver of the economic activity
+in an open source project the real cost
+is the developers who actually work on
+these projects that's where all the
+major cost is driven in any open source
+project it's easy to sign up for a
+foundation membership it's much harder
+to assign three four very expensive
+specialized engineers that you've taken
+a lot of time to train to go work on an
+open source project collaboratively with
+companies that maybe your competitors
+but that's what ends up happening in the
+best open source projects and we think
+ the
+foundation is to create that sustainable
+ecosystem it's to work with projects
+that solve a meaningful problem in
+ the market to create really
+good communities communities that have a
+diversity of committers both in terms of
+ization who are committing to the
+project in terms of gender in terms of
+race in terms of class in terms of
+quality if there's no good code you
+don't get to the second step here but
+then having those very effective
+communities be used to create really
+interesting things you know the
+production for a automotive
+that's for a car is it's three years
+when Toyota takes a bat on automotive
+grade Linux they enter a three year
+production cycle with their vehicles I
+mean they're iterating the software
+throughout that period but it's a big
+long-term commitment to codes not good
+if they don't think the ecosystem is
+sustainable if they don't think the
+project will be here they're not going
+to make that investment right and that
+ create value and profit may not be
+the perfect word here I think value
+because it's not always about profit i
+think the you know if you ask the
+government of georgia the country of
+georgia who's using open-source
+technology for their land registration
+systems who's really rooting out a lot
+of corruption in that country it's not
+about profit it's about making better
+society for their people but they then
+in turn reinvest back in that project
+that that society is dependent upon by
+sending engineers by sending
+requirements by sending bugfix so forth
+lather rinse repeat if you ask anybody
+works at the Linux Foundation what their
+job is this is it if any of them tell
+you anything differently when you ask
+them give me their names now but this is
+what all our projects are looking for so
+you know people wadna why
+are you eating
+that purchase that spot to create these
+sustainable ecosystems right and we know
+what happens when projects fall out of
+that that feedback loop look at openssl
+I mean the internet was secured by two
+guys named Steve ntpd you know Harlem
+stand on his own keeping time on the
+internet with a 30 year old code base
+written and see that still in bitkeeper
+and it's very hard to commit to that
+sustainability loop is going more
+and more important as open source
+becomes more and more important to all
+your companies to all society
+to all of us as individuals and
+ecosystems take real work this is what
+foundation is do this is the details
+this is what Mike's team my team do day
+in day out we create a governance
+structure where you can pool
+intellectual property for long-term safe
+harbor you have a development process
+right making sure that individual
+developers are the ones that are making
+the decisions as opposed to companies
+trying to mandate them this is that paid
+this the pay-to-play myth right all our
+projects have individual technical
+steering committees where their role on
+those technical steering committees go
+with the person when opendaylight
+started one of our early projects the
+lead committer further on the tsc for
+that project was a cisco employee who
+have written a lot of the code base at
+ quit
+cisco went to red hat didn't lose this
+position on the technical steering
+committee see this creates them is
+sustainable marketplace as well where
+your organization are competing on the
+market in
+these important positions and that just
+makes the project stronger that's that's
+that's not a feature that's
+been critically important to the success
+of these projects right and it also just
+so happens to improve the pay of
+individual developers who work on these
+projects who are committed to them and
+who get in these important roles we
+provide the infrastructure for projects
+whether it's making sure that we have a
+way to do a developer certificate of
+origin with a github project or whether
+it's a custom infrastructure for
+brownfield networking deployments that
+ of hardware to
+test all this stuff where's Eduardo key
+god knows what kind of hardware you
+people need to test your project you
+also need ecosystem development events
+like this ways where people can get
+together and solve problems I think it's
+going to become more important to have
+these kind of get together in a
+structured way across project them
+and talk that in a second we also
+think that you need intellectual
+property management tracking the code
+making sure that trademarks are owned in
+a neutral place making sure that
+everyone understands that there's a safe
+harbor
+whether its trademarks whether its
+copyright whether its patent regimes
+we're creating structures to create this
+neutral playing field because
+open-source projects don't exist in
+isolation we can do more the important
+thing now is that none of this stuff
+works without the other stuff and this
+ almost a
+random and you can the
+categories and what is up there but what
+really matters is how do we work across
+these projects from a security point of
+view having good secure coding practices
+from a governance point of view how do
+you make sure you raise up the
+individual developer don't break what is
+great about open source but help
+underwrite that development so it's
+sustainable make sure that the copyright
+regimes the trademark regimes the patent
+regimes are stable transparent and
+ a wall
+sorry subtle wall Joe Geddes can resist
+a second shot and then provide training
+and certification programs to get more
+practitioners this is going to be
+critical because as you go up and down
+the staff we're changing nouns to verbs
+meaning that networking as one example
+you have a management orchestration
+component an SDN controller you have
+data plane services you have all these
+different pieces that make up a
+networking stack but those are nouns
+what you really need is here's how I on
+board of the NF how I orchestrate
+something and that's going to call a
+need cross-project cooperation common
+configuration language is common data
+modeling things that we all need to work
+together not just inside of our projects
+but across projects and that's what we
+really want to get done at the Linux
+Foundation and finally we think that
+diverse communities across all of these
+organizations are strong communities
+this year the Linux Foundation is going
+to provide hundreds of scholarships for
+women and people in from
+underrepresented communities to come to
+all of our events free training programs
+for them today we announced with the
+National Center for Women in Technology
+a training program an e-learning program
+for all the speakers at our events where
+you can sit down and I've taken this
+spend about an hour so learning how
+to better communicate with people who
+are different from you and you're going
+to see take this class will even give
+you a special t-shirt and some schwag
+for taking it looking at you right there
+no but take it because one of the things
+that you'll learn is that there is a
+massive amount of scientific evidence
+that shows how diverse communities
+perform better than those that are not
+how if you take a little bit of time to
+learn how to stop interrupting people to
+be a better person that you'll get
+better outcomes we're really committed
+to that at the Linux Foundation so
+that's the update we're working on a ton
+of different interesting projects
+working both within our projects and
+outside of our projects to create a
+greater shared technology investment
+which is our ultimate goal and to
+give one final thank you too and I'm
+going to go a little bit over here to
+give this special thank you uh you know
+the final thing I'd like to share today
+is thank you to someone who's been
+working at the Linux Foundation and one
+of my proudest moments when at the Linux
+Foundation if not when someone new comes
+to work at the Linux Foundation although
+I will say I was pretty cycling Brian
+belen Dorf decided to come and work but
+it's not when someone comes to the LF
+it's when someone leaves it's when
+someone leaves you know when Ian Murdock
+may he rest in peace called me up and
+said Jim I just got offered my dream job
+at Sun Microsystems he was our CTO huge
+pay increase I you know as a kid I just
+everything about sun and solaris I love
+it to go take this job I was
+proud of that I wished him well when say
+I'm Ramsey is Sam here this morning
+somewhere around here when Sam Ramsey
+called me up and said I just got offered
+a job as the vp of product for
+Google's compute platform big job I was
+so proud of the fact that the guy was
+running Cloud Foundry is now going to
+that job and Neela Jacques has been
+running our opendaylight project for
+three years one of our earlier projects
+is now leaving organization as well
+he's to bain capital to become an
+entrepreneur in residence there and I'm
+so going on
+to an opportunity where he is going to
+go create new organizations and value at
+one of the best venture capital firms in
+the valley so you can just stand up nua
+and give me a thank you don't worry
+opendaylight is in good hands he'll Rob
+with doing all the work anyway I do I
+get a pleasant to fill Rob will be the
+interim executive director and you need
+not about that project enjoy this
+week we've got so much to accomplish on
+not just this week but an open source in
+general the thing i always tell
+developers or people who are working in
+open source it's not the biggest problem
+you'll have the biggest challenge it's
+ that you think too small it's that
+you don't think nearly big enough we can
+all work together the great outcomes
+we've already have are only going to get
+better so have a great week and thank
+you for listening to me this morning
