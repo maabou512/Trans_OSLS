@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tmx SYSTEM "tmx14.dtd">
-<tmx version="1.4">
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv xml:lang="EN-US">
+      <tuv lang="EN-US">
         <seg>Squaw Valley California did everybody
 get up here okay any travel issues at
 all wasn't as bad as last year we have a
@@ -24,12 +24,12 @@ wanted you know as these this event
 evolved and next year we'll try not to
 put it on Valentine's Day but we do want</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170702T075439Z" creationid="maabou" creationdate="20170702T074209Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170702T075439Z" creationid="maabou" creationdate="20170702T074209Z">
         <seg>ようこそカルフォルニアSquaw Valleyへ。みなさん泊まったとと思いますが問題はなかったですか（会場笑い）昨年よりは悪くなったでしょう。このイベントの最後に来年の開催地をアナウンスしますが、さらにたどり着くのが大変なところになります。みなさん参加できますので、夜のレセプションも忘れずに。マッドスライド（カクテル名）を楽しみましょう。まだ早い？（笑）あと、バレンタインデーですね、一緒に過ごしてくれてありがとう。このイベントは広げたいですが、来年度はバレンタインデーには当たらないようにしないといけませんね。</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="EN-US">
+      <tuv lang="EN-US">
         <seg>encourage people to bring their
 family along I don't know if everyone
 was aware of this i hope it meets most
@@ -43,12 +43,12 @@ but we really want to make this an event
 where people can come and enjoy
 themselves and the most important thing</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170702T080040Z" creationid="maabou" creationdate="20170702T080040Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170702T080040Z" creationid="maabou" creationdate="20170702T080040Z">
         <seg>ただ、家族連れというのもいいかもしれませんね。存知ないかもしれませんが、今週のこのイベントではフリーチャイルドケアも用意していて、私を含めて多くの人がお子さんたちを連れてきています。私の8才の娘が走り回っているのを見た方がいるかもしれませんね。このイベントをたくさんの人が来て楽しめる場にしたいです。</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="EN-US">
+      <tuv lang="EN-US">
         <seg>of this event
 hopefully for all of you is that all of
 you will build better relationships with
@@ -74,12 +74,12 @@ of opportunity
 network to get to know each other we've
 emphasized the hallway track and I hope</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170702T091245Z" creationid="maabou" creationdate="20170702T080052Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170702T091245Z" creationid="maabou" creationdate="20170702T080052Z">
         <seg>このイベントで大事なのは、みなさんがお互いによい関係を作っていく、ということでしょう。その目的にむかって、ぜひしてほしいと思うのは、いままで知らなった人と今週知り合いになってほしいということです。今年の参加者は、信じられないくらいスペシャルです。オープンソースのあらゆる切り口のグループの人たちが来ています。Open Source Program Officeを率いている人もいれば、世界最大のオープンソースプロジェクトをマネージしている人もいて、かたやテレコム領域で何10億人もの加入者向けにオープンソースをデプロイしている人もいれば、自動車向けにオープンソースを使う人もいます。まさにオープンソースの頼れる人たち（Rocks)がこのイベントに来ているということで、私たちはみなさんが知り合いになりネットワークができるよい機会となるようスケジュールを作りました。ぜひこの機会を活用してください。</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="EN-US">
+      <tuv lang="EN-US">
         <seg>take advantage of
 that that opportunity I do want to take
 a minute to thank our sponsors including
@@ -165,7 +165,7 @@ what we're going to add another 50
 events this year aunt Angela
 screaming right not actually</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="0000011038279" changedate="20170703T041052Z" creationid="maabou" creationdate="20170702T091559Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170702T121810Z" creationid="maabou" creationdate="20170702T091559Z">
         <seg>take advantage of
 that that opportunity I do want to take
 a minute to thank our sponsors including
@@ -194,7 +194,7 @@ ahead and find the unconference session
 sign up and people will be able to do
 that as well so again I want to thank
 all of you for coming
-加えてアンコンファレンス(UnConference)セッションのためにオープンスペースを用意しました。ディスカッションしたい場合はサインアップして参加ください。あらためて参加ありがとうございました。
+
 
  and then give you
 a little linux
