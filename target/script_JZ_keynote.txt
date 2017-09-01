@@ -29,6 +29,10 @@ ahead and find the unconference session
 sign up and people will be able to do
 that as well so again I want to thank
 all of you for coming
+また、アンカンファレンスセッション[*]用のオープンスペースも設けているので、ディスカッションしたいトピックがあればFoyerに行って登録してください。今日の参加にについてお礼を申し上げます。
+
+[*]https://en.oxforddictionaries.com/definition/unconference
+>A loosely structured conference emphasizing the informal exchange of information and ideas between participants, rather than following a conventionally structured programme of events.
 
 
  and then give you
@@ -50,159 +54,237 @@ technology investment in the world by
 making open source code available for
 anyone to use to propose it's
 not just the Linux Foundation there are
-other foundations it's Mike malinka
-bitching around here somewhere from the
+other foundations it's Mike Milinkovich
+ around here somewhere from the
 Eclipse right there Mike malinka bitch
 from the Eclipse Foundation in the back
 of the room there thank you for coming
 his organization like ours is again
-dedicated to the same thing to
+dedicated to the same thing. We wanna
 make a lot of source code available to
-as many people as possible and on the
-linux foundation's and to that end we've
-had in the number of
+as many people as possible.
+
+では少し今年Linux Foundationがどこにいるのか、という点について少々アップデートしたいと思います。本イベントはアニュアルメンバーのイベントで、今回400人超の方々に参加してもらったことを大変うれしく思います。昨年はLinux Foundationにとって大変よい年でした、2017年も大変よい年になる形になってきています。一つは、我々が注力しているのは、世界最大の共有されたテクノロジ投資（The greatest Shared Technology Investment in The World)を生み出すことに影響を与えるということです。私たちのミッションは、オープンソースのコードを誰にでも利用できるようにすることで、世界で最も大きなテクノロジーへの投資を作り出すことですが、もちろんそれは我々に限った話ではありません。さまざまなファンデーションが存在しています。Mike Milinkovich[*2]はいますか？彼は、Eclipse Foundationからの参加です。ありがとうございます。彼の組織は我々と同じことに献身しています、我々は多くのソースコードをできるだけ多くの人たちに使えるえるようにしたいのです。
+
+[*]Mike Milinkovich
+https://en.wikipedia.org/wiki/Mike_Milinkovich
+
+
+
+and on the
+linux foundation's end to that end we've
+had massive increase in the number of
 organizations and people that we work
 with I think the 827 member companies
-the most foundation is already out of
+of Linux  foundation,it's already out of
 date like Michael boosters around here
 somewhere we it's about 50 out of date
-so we're going to we're going to
+so we're going to we're going to　
 probably break a thousand organizations
 participating in the Linux Foundation
-this year which is a big milestone the
+this year  which is a big milestone.
+Linux Foundationのこういった目的に向かい、我々と一緒に取組んでくれる多くの組織や人による参加が増えています。827のメンバ企業とありますが、これはすでに古い情報です。Mike Woster(?)[*]はいますか？どうも50社分ぐらい古いようなので、今年に参加する組織は1000を突破するかもしれませんね。これは大きなマイルストーンです。
+
+[*]Mike Woster: LFのChief Revenue Officer
+https://www.linuxfoundation.org/about/leadership/
+
+
+
+The
 thing I'm most proud about that is the
 fact that companies that are coming in
 now from wholesale new sectors that
 hadn't done a lot of open source work in
-the past telecom automotive etc are
-really learning how to do shared
+the past telecom automotive etc .and we are
+really learning how to do shared 
 software development understanding the
 intellectual property regimes that open
-source represent and just sort of
-greasing the skids for broader low of
+source represents, 
+and just sort of
+greasing the skids for broader flow of
 code which is incredibly important if
-your admission is to create the greatest
+your mission is to create the greatest
 shared technology resource in the world
+私がもっても誇らしいと思うことは、過去オープンソースの取り組みをしてこなかったテレコムや自動車産業といった大規模で新しいセクタから今参画しててきていることです。また我々は、オープンソースに象徴的な知的財産（IP）の体系を理解したり、最大の共有可能なテクノロジのリソースを生み出すミッションにおいて非常に重要となるコードの流通を円滑にしたりしすることで共有型のソフトウェア開発をいかにシェアするかということを学んでいるのです。
+
 last year we had over 20,000 attendees
 at 150 events from 85 different
 countries it's it is crazy where is
 Angela and her team around here
 somewhere let's give them a quick round
-of applause
-what we're going to add another 50
-events this year aunt Angela
-screaming right not actually
- and reduce the number
-of n so we're combining some of events
+of applause.
+we're gonna add another 50
+events this year xxx?? Angela
+screaming right or not.
+actually we are getting to try 
+and reduce the number
+and so we're combining some of events
 but I'm going to talk about that in a
-little bit one thing you might not know
+little bit
+昨年度は85か国で150のイベントを開始し、2万人を越える方々に参加いただきました、クレイジーですね。Angela [*]と彼女のチームがいますので拍手をお願いします。今年は50のイベントを追加予定です。Angelaが叫んでいるかもしれませんね。実際は開催数を減らし、いくつかのイベントを合体させていきますが、後程少し触れてたいと思います。
+
+
+[*]Angela Brown： LFのイベント担当のVP
+https://www.linuxfoundation.org/about/leadership/
+
+
+
+ one thing you might not know
 about the Linux Foundation is we do a
 lot of training we've trained over
-800,000 students most of whom are take
-our training courses at no cost we are
-trying sure that the projects
+800,000 students, most of whom are take
+our training courses at no cost. we are
+trying to make sure that the projects 
 that we work with have a set of
 practitioners and developers that can
 further increase the adoption of that
-particular code not only that we have
-training programs that are trying to
+particular code. not only that we have
+training programs but we are trying to
 help the diversity in our communities
-both in terms of gender we offer free
+both in terms of gender. we offer free
 training scholarships for women's
-organizations all over the world we've
-also partnered with the goodwill in
+organizations all over the world. we've
+also partnered with the Goodwill in
 Austin Texas where we're working with
 people in poverty to give them job
 skills technical skills through our
 training curriculum and through a
 hands-on mentor program to lift those
-folks out of poverty single parents
-folks who've seen hard times folks who
-need good jobs a few
+folks out of poverty, single parents
+folks who've seen hard times, folks who
+need good jobs and those are a few
 of the things we're doing around
-training we're creating at the Linux
-Foundation we did a little tally across
+training.
+
+皆さんがLinux Foundationについてご存知ないことかもしれませんが、我々は80万人におよぶ人たちにトレーニングを提供しています。大半の人たちは無料のコースを取っています。我々と一緒に取り組むプロジェクトが個々のコードの採用が広がるよう、開発者（Developer）と実際に活用する人（Practitioner)の両方を得られることを確かにしようと努めています。トレーニングプログラムを提供するだけではなく、ジェンダーの観点からもコミュニティにおける多様性を手助けしています。世界中の女性団体に対し無償の奨学金を提供しており、またテキサス州AustinにあるGoodwillともパートナー関係を結び[*]、貧困下にある人たちにトレーニングカリキュラムやハンズオンのメンタープログラムを通じ職能としての技術スキルを提供し、シングルパレントやつらい状況にあったりよい仕事を必要としてたりする人たちが貧困から脱する取り組みをしています。これらは、トレーニングに関連で我々がしていることの一部です。
+
+
+[*]Linux Foundation Partners with Goodwill to Offer Free Training and Lucrative Career Opportunities to Underserved Communities
+https://www.linuxfoundation.jp/news-media/announcements/2016/01/linux-foundation-partners-goodwill-offer-free-training-and
+
+
+
+we're (while?)creating at the Linux
+Foundation, we did a little tally across
 all the projects that just we're hosting
 about 14 billion dollars worth of value
 if you measure up the lines of code and
 how much it cost on average to create a
 line of code it's billions and billions
-of dollars worth of value and certainly
+of dollars worth of value.
+Linux Foundationでは創造的な活動をしているわけですが、ちょっとした勘定をしたところ、ホストしているすべてのプロジェクト横断でおよそ14Billion$の価値と値するという結果がでました。コードのライン数と一コードを生み出すの生じる平均コストから積み上げると、数十億ドルもの価値になるということです。
+
+and certainly
 Linux itself just continues to dominate
 almost every aspect of modern computing
 it runs almost all high performance
-computing systems the majority of mobile
-devices embedded systems most of the
+computing systems, the majority of mobile
+devices, embedded systems most of the
 world's economy the internet it's safe
-to say runs on Linux so we're going to
+to say runs on Linux .
+so we're gonna 
 continue and we hope all of you join us
 and we know you're already working with
-us to on those big outcomes
+us to really focus on those big outcomes.
 how can we really move the needle with
 shared open-source software to really
 make big impact on both industry and
-society and you know one of the things
+society.
+たしかにLinuxそれ自身、実に近代のコンピューティングのほとんどすべての側面で優勢であるわけです。ハイパフォーマンスコンピューティングシステムほとんどすべて、モバイルデバイスのや組込みシステムの大多数で動いていますし、世界経済やインターネットのほとんどがLinux上で動いているといっても過言ではありません。私たちは進み続けていきます。そして、皆さんに参加していただきたいです。こういった成果（outcome）にフォーカスするべくすでに一緒に取組んでいるわけではありますが。産業や社会にインパクトを与えるには、共有されるオープンソース・ソフトウェアでどのように変化をもたらすことができるでしょうか？
+
+
+
+and you know one of the things
 that I get asked about all the
-I'm is you know you're doing so much
-more than Linux when are you going to
-change Foundation
+time  is you know you're doing so much
+more than Linux when(why not) you are gonna
+change the name of the Linux Foundation
 and my response to that is I just made
-up like all these vests and gave them
-away to Africa pocket we're not change
-in pin Hagan at least that for now but
-no no name change but we really have
-gone beyond Linux some of you may be
-aware but many of you might not be aware
-that of work around security
+up like all these vests and gave(give?)  them
+away  if you want, we're not changing the name 
+at least that for now .but...
+no no name change. 
+but we really have
+gone beyond Linux.
+
+
+よく聞かれることの一つに、「Linux以外にも多くの取組みをしているなら、Linux Foundationという名前を変えないのか」という話がある。私の応えとしては、このベストを作ってしまいましたし、欲しい人にはお配りもしますので、変えるつもりはありません。少なくとも今のところは、変えません（笑）しかしながら、実際我々はLinuxを越えた活動をしていますね。
+
+some of you may be
+aware but many of you might not be aware of
+that we are a lot of work around security
 you're going to hear from Bruce Schneier
 in a minute here about a world that is
 facing increasing difficulty in trouble
 when it comes to cyber security privacy
-and other things we have an initiative
-Oh that we're working with here called
-let's encrypt there anyone here from the
-let's encrypt projects a few people
- some folks let's encrypt is a free
+and other things.
+we have an initiative
+or that we're working with here called
+let's encrypt. Is there anyone here from the
+let's encrypt projects? a few people,some folks.
+何人かの方はご存知かもしれませんが、多くの人は我々がセキュリティ関連の取り組みを多くしている点をご存知ないかもしれません。この後でBruce Schneier[*]から今直面している、増加傾向にあるサイバーセキュリティやプライバシーといったことに関する問題について話を聞くことができると思います。我々が取り組んでいるイニシアチブに「Let's Encrypt!」があります。Let's encryptプロジェクトから来ている人はいますか？何人かいらっしゃいますね。
+
+[*]Bruce Schneier
+https://en.wikipedia.org/wiki/Bruce_Schneier
+
+
+ 
+let's encrypt is a free
 certificate authority the idea behind
 let's encrypt is to make HTTP as the
 default for the Internet to secure all
 internet traffic by creating a free
-certificate authority this in 2016 for
-the first time ever more than fifty
+certificate authority.
+this in 2016 for
+the first time ever more than 50
 percent of internet traffic was secure
 in large part thanks to let's encrypt we
 can literally chart where let's encrypt
-started to when the move the needle
+started to when the move, the needle
 started moving up in terms of secure
-traffic across the internet and we want
-to get that as high as we possibly can
-our core infrastructure initiative is
-working with projects that are sort of
+traffic across the internet.and we want
+to get that as high as we possibly can.
+
+「Let's Encrypt!」はフリーの認証局です。背景にあるアイデアは、インターネットのデフォルトであるHTTP接続を、フリーの認証局を作ることによってすべてセキュアなインターネットトラヒックにするということです。2016年インターネットトラヒックのうちセキュアなものが初めて50%を越えました。この大部分はLet's Encrypt!のおかげで、Let's Encryptがスタートしたところでインターネットを流れるセキュアなトラヒックの値が上に触れる図を示すことができます。我々としては、これをできる限り高いところに持っていきたいとところです。
+
+our Core Infrastructure Initiative is
+working with projects that are a sort of
 the intersection between incredibly
-important for the security integrity of
+important to the security integrity of
 the global Internet and kind of screwed
-up screwed up in terms of difficulty
-getting funding have a requirement for
-third-party audit need additional
-eyeballs on the code things like openssl
-ntpd other projects we're really that
+up, 
+screwed up in terms of difficulty in
+getting funding, have a requirement for 
+third-party audit, need additional
+eyeballs on the code things likeopenssl 
+ntpd other projects.
+
+Core Infrastructure Initiativeは グローバルなインターネットで非常に高いセキュリティが重要となるところと資金を得られないなど「間違いが生じてしまった（Screwed-up）ところ」が交差するところにいるプロジェクトと一緒になった取組みをしています。OpenSSLやnptdその他プロジェクトで見られるように第三者監査を求めるプロジェクトもあれば、コードを見るより多くの目（eyeball)を必要とするプロジェクトもいます。
+
+we're really that
 initiative is about creating a culture
 of secure coding practices for all open
 source projects and helping fix open
 source projects that haven't
 traditionally gotten resources but are
 important to society by providing them
-funding and other resources as well if
-you haven't seen the core infrastructure
+funding and other resources as well.
+私たち、本イニシアチブでは全てのオープンソースプロジェクトでセキュアコーディングが実践される文化を創り出そうとしていて、社会にとって重要で、リソースを得ることができなかったオープンソースのプロジェクトにファンドやその他リソースを提供することで正しい方向に向かうことを支援しているのです。
+
+if you haven't seen the core infrastructure
 initiative badging program which has
 been adopted by some of
 biggest open source projects in the
-world check it out this is a way for
+world, check it out.
+this is a way for
 your project to indicate that you follow
-secure coding practices have responsible
-disclosure policy have a more efficient
+secure coding practices, have responsible
+disclosure policy, have a more efficient
 way of making sure that security is part
-and parcel to everything you do in code
+and parcel to everything you do in code.
+
+Core Infrastructure Initiativeが提供していて、いくつかの世界最大規模のオープンソースプロジェクトで採用されているバッヂプログラム（Badging program)をもし見たことがないようでしたら、チェックしてみてください。これはみなさんのプロジェクトがセキュアコーディングを実践していて、情報開示ポリシー（disclosure policy）に責任があり、皆がコードを書くすべてについてセキュリティが最も大事であるということを確実にする効果的な方法がある、といったことを示すものになります。
+
 in the networking sector we have lots of
 new open source projects and that's only
 getting bigger we're working with the
