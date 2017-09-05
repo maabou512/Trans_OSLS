@@ -287,7 +287,8 @@ Core Infrastructure Initiativeが提供していて、いくつかの世界最�
 
 in the networking sector we have lots of
 new open source projects and that's only
-getting bigger we're working with the
+getting bigger.
+we're working with the
 largest global operators in the world
 you're going to hear this week from
 organizations like AT&T last year we
@@ -296,128 +297,212 @@ a management orchestration platform
 they're essentially open sourcing the
 network infrastructure that provides
 service to billions of people all over
-the world we're doing a lot of good work
-to harmonize those projects you're going
-to hear about throughout this week
-in the cloud or cloud native computing
-foundation with a project such as Cooper
-Nettie's from me theists and others is
+the world.we're doing a lot of good work
+to harmonize those projects
+you can hear about that throughout this week.
+ネットワーク領域でLFには多くのオープンソースプロジェクトがあり,大きくなっています。世界最大のグローバルオペレーターたちとともに取り組みをしていて、このイベントでAT&Tや昨年マネジメントオーケストレーションプラットフォームをアナウンスしパートナとなったチャイナモバイルといった組織から話を聞けると思います。彼らは世界中の何十億人の人たちにサービスを提供するネットワークインフラをオープンソースにしようとしているのです。
+
+こういったネットワーク周りのプロジェクトを調和させることにも取り組んでいて、このイベントで聞くことができるかと思います。
+
+in the cloud Cloud Native Computing
+Foundation with  projects such as Kubernetes,
+Prometheus and others is
 really leading the way in terms of the
-modern micro service and container based
-application development methodology that
+modern micro service, container based
+application development methodology 
 that really is defining the way people
-build apps today Cloud Foundry another
+build apps today. Cloud Foundry another
 example of a platform that's being used
 to create incredibly important
 technology solutions for governments and
-organizations throughout the world our
-automotive Dan
-kouchi in the room maybe not i did see
-him at the bar late last night this is
-is such a sleeper project linux
+organizations throughout the world.
+
+クラウド領域では、Cloud Native Comuting FoundationがKubenetesやPrometheusなどのプロジェクトとともに現代のマイクロサービスやコンテナベースのアプリケーション開発の手法をリードし、まさに今のアプリの構築方法論を定義しようとしています。もう一つ挙げるCloudFundryは政府や世界中の組織で重要となるテクノロジーソリューションを生み出すプラットフォームとして使われています。
+
+Automotive Linux Initiatives, Dan Cauchy
+in the room? maybe not. I did see
+him at the bar late last night.
+this is is such a sleeper project at the  linux
 foundation that's going to have a huge
 impact just as more and more production
 vehicles roll out with the AGL code in
-it this is CES this year Daimler
-announced that they're joining our
+it.
+this, It's CES this year, Daimler announced that they're joining our
 automotive grade Linux initiative so now
-we have Toyota daimler and a dozen of
+we have Toyota, Daimler and a dozen of
 the world's biggest automotive OEMs all
 working together to create the future
 automotive middleware and informatics
-systems that really define what an
-automotive cockpit experience it looks
-like and then finally uh last year in
-December I think with pretty much there
+systems that really define what an automotive cockpit experience  looks
+like 
+
+Automotive Grade Linux （=AGL）イニシアチブは、Dan Cauchy[*]はいますか？いないようですね？昨夜バーで見かけたのですが（笑）。これはLinux Foundationで思いがけず成功したプロジェクトで、AGLのコードを乗せた多くの自動車が市場に展開されるにつれてその影響が大きくなっていくことでしょう。今年のCESでDaimlerがAGLイニシアチブに参加することをアナウンスしました。これで、トヨタ、Daimlerと十数社におよぶ世界最大級の自動車OEM企業が我々とともに自動車コックピットのエキスペリエンスを定義する将来の自動車ミドルウェアとInformaticシステムを定義しようとしているのです。
+
+[*]Dan Cauchy: AGLのExcecutive Director
+https://www.automotivelinux.org/about/leadership
+
+
+
+
+and then finally uh last year in
+December I think pretty much there
 no we
-we rolled of
-work in December uh this month i think
- our block
-chain initiative hyper lecher Brian
-mellendorf will be here this week to
+we rolled out this year, I started to 
+work in December uh this month I think
+the 1 year anniversary of a block
+chain initiative, HyperLedger.  
+今月は昨年12月に始まったブロックチェーンイニシアチブである、HyperLedgerの一周年だと思います。
+
+
+ Brian Behlendorf  will be here this week to
 talk about it he runs that particular
 initiative at the Linux Foundation
 you're going to hear from Chris Ferris
-from IBM about blockchain but
-distributed lejacq technology is no
+from IBM about blockchain.
+but
+distributed ledger technology is no
 doubt changing the way that people are
-creating trust transactions on the
- the
+creating trust transactions on the Internet.
+
+
+Brian Behlendorf[*]がこのイベントで話をしてくれるでしょう。彼はLinux Foundationでこのイニシアチブを率いています。また、IBMからはChris FerrisがきてBlockchainついての話が聞けると思います。分散台帳のテクノロジーはインターネット上の信用のトランザクションのやり方を変えるものであることは疑いありません。
+
+[*]Brian Behlendorf:HyperLedger ProjectのExecutive Director
+https://www.hyperledger.org/about/leadership 
+
+ 
+Think of this is sort of 
 new trust protocol for the internet
-hyper Ledger's technologies are being
+これはインターネット上の新しい信用プロトコルのようなものと考えてください。
+
+Hyper Ledger  technologies are being
 deployed in financial service
 applications that are really modernizing
-the financial service back office you
+the financial service back office.
+you
 know it takes a nanosecond to make a
 trade with high-frequency trading
 systems and it takes a week or two to
-reconcile that trade on the back office
+reconcile that trade on the back office.
 all that's going to be changed as large
 organizations start using distributed
 ledger technology to manage that back
-office a trade will take
-seconds minutes instead of days and
-weeks and blockchain technology isn't
-just about financial services you're
+office where clearing a trade will take seconds minutes instead of days and
+weeks.
+Hyper Ledgerテクノロジーは金融サービスアプリケーションで展開されていてバック金融サービスのバックオフィスを近代化するのです。高頻度トレードシステム（High Frequent Trading System）では取引がナノ秒単位ですが、バックオフィスで取引を照合するのには1、2週間かかります。大規模組織が分散台帳テクノロジーを使い始め、この状況が変わってきています。分散台帳を用いて決済に係る時間を日・週という単位から秒・分にするバックオフィスをマネージしようとしているのです。
+
+and blockchain technology isn't
+just about financial services. you're
 going to hear about how the hyper ledger
 project is helping to work with
 organizations like De Beers to track in
 an immutable way the provenance of
 diamonds in order to get blood diamonds
-out of the system working with
+out of the system. 
+ブロックチェーン技術は金融サービスだけではありません。セッションの中ではダイヤモンドの原産地を「変更不可能なやり方で（in immutable way)」追跡し、システムでブラッドダイヤモンド[*]などを特定するといった、De Beers社との事例[*]のようにHyper Ledgerプロジェクトが組織との協業して支援している話が聞けると思います。
+
+[*]Blockchains used to trace blood diamonds(April,2017)
+https://www.nextbigfuture.com/2017/04/blockchains-used-to-trace-blood-diamonds.html
+
+[*]Blood Diamond: 紛争ダイヤモンド
+シエラレオネなど内戦地域で産出されるダイヤモンドをはじめとした宝石類のうち、紛争当事者の資金源となっているもの。 血塗られたダイヤモンド (blood diamond)、汚れたダイヤモンド (dirty diamond)、戦争ダイヤモンド (war diamond)とも呼ばれる。
+https://ja.wikipedia.org/wiki/%E7%B4%9B%E4%BA%89%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89
+
+working with
 governments to create immutable
 transparent land registration systems to
 prevent corruption in those governments
-and to create a better society so as you
+and to create a better society.
+so as you
 can see the linux foundation is working
-on a much neater i haven't mentioned all
-of our projects into those that haven't
-mentioned but i can only do
-so much in short period of time we're
-working on a lot more than linux the
+on a much, neither  i haven't mentioned all
+of our projects, and to  those I  haven't
+mentioned I approgize but i can only do
+so much in short period of time. 
+we're
+working on a lot more than linux.
+政府との間では、不正を回避する変更のできない（Immutable）透明性の高い土地登記システムとよりよい社会を作るための取り組みをしています。これまで見てきたように、我々は、Linux以外にも多くの取り組みをしています。多くの短い時間のため言及できなかったプロジェクトの方々はすみませんでした。
+
+the
 question that this group should ask the
-leadership source and many of
+leadership in open source and many of
 our projects is why do we need
 open-source foundations why do we need
-the Linux Foundation like I won't speak
-for you but it's a good question and you
-know this something that in today's
+the Linux Foundation Mlike I won't speak for you 
+but it's a good question.
+and you know, this is something that in today's
 political world has also come to a light
 and recently we in this sort of make
 sense we've seen a flurry of executive
-orders and of the question came up in DC
-as we
-I'll give you a second to read the order
-yeah too soon like we're in California
-is an open source of that I figured this
-is pretty safe crowd by the way this
-order I'm not sure about but there was
+orders and the question came up in DC
+as well, give you a second to read the order
+ここにいる人たちが、オープンソースやLFのプロジェクトのリーダーたちに尋ねるであろう問いは、「なぜ、オープンソースのファンデーションが必要なのか？なぜLinux Foundationが必要なのか？」ということでしょう。Mike、君に言っているのではないですが、これはよい質問ですね。政治の世界においても、取り上げられてきています。最近ある意味理にかなっているというか、立て続けの大統領令で、その質問がワシントンDCからも出てきたのです。少しだけこの文面を読んでみてください（ただしこれはジョーク、文面は以下のとおり）
+
+------
+Foundations are a total disaster.
+From now on for every new open source foundation created you must eliminate two existing foundations.
+
+ファンデーションは大失敗だ。今から新しいファンデーションを作るたびに既存のファンデーションを2つ廃絶しなければならない[*]
+------
+
+[*]「Total disaster」は米トランプ大統領がtwitterなどで用いる言葉。頻繁に「トランプ節」として使われている。
+
+
+
+yeah too soon? like we're in California
+is(to?) an open source of(so?)  that I figure this
+pretty safe crowd.
+by the way this order I'm not sure about but there was
 another order related to the Linux
-kernel where for every which is bloated
+kernel where for every,  which is bloated
 and sad and for every line of code added
-to the colonel two lines of code must be
-removed that one actually makes a lot
-more sense to me but you know it's a
+to the kernel, two lines of code must be
+removed.
+that one actually makes a lot
+more sense to me,
+
+早すぎますか？ここはカルフォルニアですし、オープンソース向けですので、ここに集まっているみなさんであれば問題ないでしょう（笑）。ところで、この大統領令は当てにしてないですが、もうひとつのパターンでLinux Kernel に関する大統領令もありましたね。「肥大化し、悲しい（Bloated and sad）」もので「コードを一行追加するたびに、二行削除せねばならぬ」というやつ[*]ですね。そちらの方については個人的にうなづけるものがあります。
+
+[*]The Linux Kernel is Bloated and Sad
+http://www.gamersonlinux.com/forum/threads/the-linux-kernel-is-bloated-and-sad.2067/
+
+but you know it's a
 good question why do you need a
-foundation you know there are millions
+foundation .
+you know there are millions
 of open source projects out there I
 think this also out of date
-how what's the latest is anyone here
+what's the latest is anyone here
 from github what's the latest github
-repo number is it 50 1,000,000 is that
+repo number is it 51,000,000 is that
 right whole week I got man this is
 really I didn't make this very long ago
-that 51 million open
-source repository on github sourceforge
-you know around a half a billion we've
-got the asf with over 175 projects 300
+that's incredible!  
+51 million open
+source repository on github, sourceforge
+you know around a half a million we've
+got the ASF with over 175 projects 300
 in another managing around 300 and
-another 15 incubation Mike idea I hope
-I'm viewing your service here about 163
-projects is that roundabout oh my God
+another 15 incubation.
+Mike idea I hope
+I'm doing your service here about 163
+projects is that round about oh my God
 look at this my numbers they're terribly
-wrong my apologies the Pope no problem
-no problem the point is there's a lot of
+wrong my apologies! （会場から反応） no problem
+no problem .
+とはいえ、なぜファンデーションが必要なのか？というのはよい問いです。
+世の中には数百万ものオープンソースプロジェクトが存在しています。ここに挙げた数字は情報が古いかもしれません。Githubにあるレポジトリの最新の情報、どなたかわかりますか？5100万？それ本当ですか[*]？私がこの情報を調べたのはそんな前ではないのですよ！信じられないですね。Githubには、5100万のレポジトリが、SourceForgeには50万ほどが、、ASFには175コミッティが300のプロジェクトがあり、50のインキュベーションプロジェクトがあります。（Eclipseについて）Mike、君のところの情報ですが、163プロジェクトで合ってますか？概算でいいですが（会場から300の声）オーマイガッ！私が出した数字はひどく間違っていますね。申し訳ございません！[*]
+
+[*]ちなみに出典のリンクをみると、8月末時点で、6500万以上とある
+https://github.com/about
+
+
+[*] おそらくJimの集計結果(Eclipseのプロジェクト数163）はそれほどまちがっていないと思われる。出典元
+https://projects.eclipse.org/search/projects
+を見ると確かにプロジェクト数自体はざっくり300近くとなるが、40-50%ぐらいは「N/A」となっていることがわかる。おそらく実際に活動が続いているものを集計すると163近辺になると思われる。
+
+
+the point is there's a lot of
 open source projects out there the real
 question is which ones matter which ones
 matter you know I mean does do the
@@ -425,87 +510,110 @@ remaining 30 million projects out there
 that somebody put up for a good put
 reason you know maybe they were working
 on a PhD thesis or it was an undergrad
-who is working on some experiment the
-question I think to all of you so those
-who run the profession of open source of
-commercializing it of taking meaningful
-dependency upon it right in the case of
+who is working on some experiment.
+the question I think to all of you to those
+who run the profession of open source, of
+commercializing it, of taking meaningful
+dependency upon it, right? 
+in the case of
 some of the blockchain initiatives where
 we're working with governments to take a
 societal dependency upon an open source
-project you really have to under
-stand which matter where is that value
-related to the number of projects and
-and that's where think that we want
-we think foundations should focus
+project you really have to understand which matter where is that value
+related to the number of projects. 
+
+
+ポイントは、世の中には多くのオープンソースプロジェクトが存在しているという点でありますが、真の問いは「どのプロジェクトが重要なものなのか？」ということでしょう。存在する3000万ものプロジェクトは、誰かがそうするよい理由がって公開されたものでしょう。PhD論文や学部の卒論であったり、実験的なものだったのかもしれません。この問いは、オープンソースを職業としてしていたり、オープンソースを使って商売をしていたり、それらの重要な依存関係を突き止めるような人たちにとってのものです。政府とともにオープンソース上で社会的な依存関係を突き止める取り組みをしているBlockchainイニシアチブの場合で言えば、プロジェクト数に関連しその価値がどのぐらいのところにあるのか、ということは理解していなければなりません。
+
+and and that's where we think that we want
+we think foundations should focus.
 helping projects create sustainable
 ecosystem these are the ones that end up
-mattering and they kind of grow up into
+mattering. 
+and they kind of grow up to
 the left in that if you look at this
-chart you know if you think about
+chart you know if you think of
 foundations are trying to do we're
-trying to kind of grow up into left in
-this slide this look at reverse I always
-liked up
-into the right it's just to Silicon
-Valley you know but the best projects
+trying to kind of grow up and to the left in
+this slide, this look  a reverse. I always
+like the up and to the left  because up and to the right is just to Silicon
+Valley, you know.
+そこが、私たちのようなファンデーションがフォーカスするところだと考えます。プロジェクトが持続可能なエコシステムを作ることの手助けをします、そういったことが最終的にプロジェクトの重要性を決定づけるものとなります。この図を見たとき、左上の方に成長させるような成長、それこそがファンデーションが取り組んでいることです。シリコンバレーでは、右上に向かうように表現するでしょうから、左上のというのは逆に見えるかもしれませんが。
+
+but the best projects
 the projects that are meaningful and you
 can count on for decades to come are
 those who have a good developer
-community solving a really big problem
+community solving a really big problem,
 where that code is used to create real
 value value in the form of profit for
-companies many of the companies that you
-work for take open source code create
+companies, many of the companies that you
+work for take open source code, create
 products or services and create real
 profit that then is in turn reinvested
-back into the project and when I say
+back into the project .and when I say
 reinvested back into the project I don't
 mean reinvested back into a foundation
 the foundations and Mike you're to
-have to back me up on this like a tiny
+have to back me up on this, like a tiny
 little sliver of the economic activity
-in an open source project the real cost
+in an open source project. the real cost
 is the developers who actually work on
 these projects that's where all the
 major cost is driven in any open source
-project it's easy to sign up for a
+project.
+it's easy to sign up for a
 foundation membership it's much harder
 to assign three four very expensive
 specialized engineers that you've taken
 a lot of time to train to go work on an
 open source project collaboratively with
-companies that maybe your competitors
+companies that maybe your competitors.
 but that's what ends up happening in the
-best open source projects and we think
- the
-foundation is to create that sustainable
+best open source projects. 
+もっともよいプロジェクト、意義があり、向こう何十年当てにできるプロジェクトというのは、本当に大きな問題を解決し、本当の価値が企業のプロフィットの形で生み出されるようコードが活用される開発コミュニティがあるものです。皆さんが努める多くの企業がオープンソースコードを活用してプロダクトやサービスを作り出し、利益を生み、そしてプロジェクトへ戻す形で再投資するということです。
+再投資というのは、ファンデーションに戻すという意味ではありません。ファンデーションというのは非常にオープンソースプロジェクトにおける経済活動の小さな断片のようなものです。本当のコストはそういったプロジェクトに従事している開発者で、すべてのコストがオープンソースプロジェクトにかけられているのです。ファンデーションのメンバとして参画するのは簡単なことですが、（ファンデーションを活用せずに）3、4人の高額のエンジニアを専門でアサインして、競合も含めた他社とプロジェクトで協業できるようトレーニングにたくさんの時間をかけるというのはとても大変なことです。しかし、結局よいプロジェクトではそういうことは起こることなのです。
+
+
+
+ and we think the
+foundations, job of a foundation is to create that sustainable
 ecosystem it's to work with projects
-that solve a meaningful problem in
- the market to create really
+that solve a meaningful problem in society, in the market 
+ファンデーションの仕事というのははサステイナブルなエコシステムをつくりだすことであり、また社会やマーケットにおける意義のある問題を解決していくことが、プロジェクトとともに取組んでいくことなのです。
+
+ to create really
 good communities communities that have a
 diversity of committers both in terms of
-ization who are committing to the
-project in terms of gender in terms of
-race in terms of class in terms of
+organization who are committing to the
+project in terms of gender, in terms of
+race, in terms of class, in terms of
 quality if there's no good code you
-don't get to the second step here but
+don't get to the second step here. 
+but
 then having those very effective
 communities be used to create really
-interesting things you know the
-production for a automotive
-that's for a car is it's three years
+interesting things.
+またプロジェクトにコミットする組織、ジェンダー、人種、階級、属性といった観点で多様性のある本当に良いコミュニティを作っていくことです。よいコードがなければ次のステップに進むことはできません。なのでこういった有益なコミュニティが活用されるようにしていき、本当に面白いものがうみだされるようにしていくのです。
+
+you know the
+production timeline for a automotive
+that's for a car is?  it's three years
 when Toyota takes a bat on automotive
 grade Linux they enter a three year
 production cycle with their vehicles I
 mean they're iterating the software
 throughout that period but it's a big
-long-term commitment to codes not good
+long-term commitment. 
+if codes are not good,
 if they don't think the ecosystem is
-sustainable if they don't think the
-project will be here they're not going
-to make that investment right and that
- create value and profit may not be
+sustainable, if they don't think the
+project would be here, they're not going
+to make that investment, right? 
+自動車の一つの車種における製造計画がどれぐらいかご存知ですか？3年だと言います。トヨタはAGLに取組み始めたとき、3年の製造サイクルに入たことになります。つまり彼らはこの期間ソフトウェアを反復的に適用していくことになります。これは、長期的で大きなコミットメントです。コードの質が悪かったり彼らがこのエコシステムの持続可能と思わなかったり、プロジェクトがここにあるようなものになると思わなかったりしたら、彼らは投資はしないでしょう。
+
+
+ and that we create value and profit may not be
 the perfect word here I think value
 because it's not always about profit i
 think the you know if you ask the
@@ -515,61 +623,107 @@ technology for their land registration
 systems who's really rooting out a lot
 of corruption in that country it's not
 about profit it's about making better
-society for their people but they then
+society for their people. 
+but they then
 in turn reinvest back in that project
 that that society is dependent upon by
 sending engineers by sending
 requirements by sending bugfix so forth
-lather rinse repeat if you ask anybody
+lather rinse repeat .
+
+そして我々は価値(Value）を生み出しています。
+（ここで書かれている）「利益（Profit）」というとここではぴったりくる言葉ではないかもしれません。必ずしも利益のことだけではないですので、私は「価値」だと考えます。土地登記システムにオープンソースの技術を活用し、汚職を根絶しようとしているジョージア政府[*]からみれば、それは「利益」というよりは、人々に対しよりよい社会を作ることが重要です。そして、彼らはエンジニアを送り、要望やバグフィックスなどを送ることでプロジェクトに還元しながら再投資しているのです。そしてこれが繰り返されていきます。（lather,rinse, repeat)
+
+
+[*]以下記事のジョージアでのBlockchain技術を活用したが土地登記システムのことが取り上げられているが、オープンソースについては言及されておらずBitfury社の名前が目立って書かれているようみ見える。
+「The First Government To Secure Land Titles On The Bitcoin Blockchain Expands Project」
+https://www.forbes.com/sites/laurashin/2017/02/07/the-first-government-to-secure-land-titles-on-the-bitcoin-blockchain-expands-project/#12469dab4dcd
+
+
+if you ask anybody
 works at the Linux Foundation what their
-job is this is it if any of them tell
+job is this is it.
+if any of them tell
 you anything differently when you ask
-them give me their names now but this is
+them give me their names, no.
+but this is
 what all our projects are looking for so
-you know people wadna why
-are you eating
-that purchase that spot to create these
-sustainable ecosystems right and we know
+you know people ask me like wadna(?),  why
+are you doing this project, why are you doing xxxxx,  that's why. 
+to create these sustainable ecosystems, right? 
+LFで従事している人たちの仕事は何か？と言われれば、それはこれ（図）です。何か違うことを言う人がいたらその人の名前を知らせてください、冗談です（笑）。これが、我々のプロジェクトが求めていることです。「なぜそんなプロジェクトをやっているのか？」と聞かれることがありますがこれが答えです。持続可能なエコシステムを作るということです。
+
+and we know
 what happens when projects fall out of
-that that feedback loop look at openssl
+that that feedback loop look at OpenSSL
 I mean the internet was secured by two
-guys named Steve ntpd you know Harlem
-stand on his own keeping time on the
+guys named Steve ntpd you know Harlan
+Stenn on his own keeping time on the
 internet with a 30 year old code base
 written and see that still in bitkeeper
 and it's very hard to commit to that
 sustainability loop is going more
 and more important as open source
 becomes more and more important to all
-your companies to all society
-to all of us as individuals and
-ecosystems take real work this is what
-foundation is do this is the details
+your companies to all society to all of us as individuals.
+こういったフィードバックループから外れ落ちてしまうとどうなるか、OpenSSLを思い出してください。インターネットは2人のSteveによって安全が守られていました[*]。nptdではHarlan Stennが一人でインターネットのタイムキープを30年前に書かれたコードベースでBitkeeperを見ながらしてきました。それだとコミットするのは難しいですよね。オープンソースが企業や社会、私たち個人にとってますます重要になるにつれ、この持続可能性のループはより一層重要なものとなってきているのです。
+
+[*]Tech giants, chastened by Heartbleed, finally agree to fund OpenSSL
+https://arstechnica.com/information-technology/2014/04/tech-giants-chastened-by-heartbleed-finally-agree-to-fund-openssl/
+
+[*]Linux Foundation Funds NTP's 'Father Time
+https://www.informationweek.com/cloud/infrastructure-as-a-service/linux-foundation-funds-ntps-father-time/d/d-id/1321775
+
+
+
+and
+ecosystems take real work
+this is what
+foundations do. 
+this is the details
 this is what Mike's team my team do day
-in day out we create a governance
+in day out.
+we create a governance
 structure where you can pool
 intellectual property for long-term safe
-harbor you have a development process
-right making sure that individual
+harbor.
+実際の取組みはエコシステムが担っています。ここにあるのが、ファンデーションがやっていることで、その詳細です。これがMikeや私のチームが毎日していることです。長期的な避難港（Safe harbor[*]）を目指した知的な資産をプールすることができる、そんなガバナンスの仕組みをつくっています。
+
+[*]Safe Harbor Rule
+セーフ・ハーバー・ルール、宥恕規定◆諸規制や税法などにおいて、その規定を順守していれば違反（違法）にはならない範囲を明確化した基準（ルール）。
+
+we have a development process,
+right?
+making sure that individual
 developers are the ones that are making
 the decisions as opposed to companies
-trying to mandate them this is that paid
-this the pay-to-play myth right all our
+trying to mandate them.
+this is that paid
+this is the pay-to-play myth, right?
+all our
 projects have individual technical
 steering committees where their role on
-those technical steering committees go
-with the person when opendaylight
+those technical steering committees go　
+with the person.
+when opendaylight
 started one of our early projects the
 lead committer further on the tsc for
-that project was a cisco employee who
-have written a lot of the code base at
- quit
+that project was a Cisco employee who
+have written a lot of the code base, and
+quit
 cisco went to red hat didn't lose this
 position on the technical steering
-committee see this creates them is
+committee 
+我々は、開発プロセスも持っています。企業で指示される形とは反対に、個々の開発者たちが意思決定できることを確かなものにしています。ここに（企業として）お金を払わなければ入れない（Pay-to-Play）という誤解があります。我々のすべてのプロジェクトはそれぞれテクニカルステアリングコミッティ（TSC）がありますがこのステコミの役割は、人に付随しています。OpenDaylightがアーリープロジェクトの一つとして始まったとき、多くのコードベースを書いていたTSCのリードコミッタはCiscoの社員でした。プロジェクトでの2ヶ月で彼はCiscoを退社し、RedHatに移りましたが、TSCでの役割を失うことはありませんでした。
+
+
+
+
+ see this creates them is
 sustainable marketplace as well where
 your organization are competing on the
 market in
+
 these important positions and that just
 makes the project stronger that's that's
 that's not a feature that's
@@ -578,24 +732,47 @@ of these projects right and it also just
 so happens to improve the pay of
 individual developers who work on these
 projects who are committed to them and
-who get in these important roles we
+who get in these important roles
+こういった仕組みは持続可能なマーケットプレースを作ることにもなります。組織がこれら重要な役割を担っている開発者を求め市場で競い合う場です。それはまさにプロジェクトを強化していくことにもなります。悪いことではなく特徴であり、プロジェクトの成功に不可欠なことなのです。そうなれば、こういったプロジェクトに取り組みコミットし、重要な役割を担っている開発者たちの収入も改善することに繋がります。　
+
+we
 provide the infrastructure for projects
 whether it's making sure that we have a
 way to do a developer certificate of
-origin with a github project or whether
+origin  with the github project 
+我々はプロジェクト向けのインフラも提供しています。GithubプロジェクトとDeveloper Certificate of Origin[*]の仕組みがありますし、また
+
+[*]コードの透明性を高めるための仕組みで略してDCOと呼ばれる。適切なOSSライセンスの元で開発されたコードのみがコードとして採用されるという手順を明確にすることによってコードの正当性を保証する。 構成するコードの出自を明らかにし、知的財産権侵害のリスクを排除しようという試みでDCOの元では、新たにコードを提供しようとする開発者はDCOの手続きに則った宣誓を行わねばならない。この宣誓を行った開発者のみがLinuxカーネルにコードを組み込むことができる。GithubではPullrequestにおいてDCOを強制させる仕組みがある。
+https://developercertificate.org/
+https://probot.github.io/apps/dco/
+
+
+ or whether
 it's a custom infrastructure for
-brownfield networking deployments that
- of hardware to
+brownfield networking deployments that need 
+God knows what kind 
+of hardware to
 test all this stuff where's Eduardo key
 god knows what kind of hardware you
-people need to test your project you
+people need to test your project .
+you
 also need ecosystem development events
-like this ways where people can get
-together and solve problems I think it's
+like this ways where people can get 
+together and solve problems. I think it's
 going to become more important to have
 these kind of get together in a
-structured way across project them
-and talk that in a second we also
+structured way across projects
+them
+and talk that in a second.
+
+Brownfileld[*]なネットワークに対しカスタムインフラであることもあります。どんなハードウェアテストする必要があるのか、神のみぞ知るような話もあったりします。このイベントのようにエコシステムの開発も必要です。人々があつまって問題を解決するのです。プロジェクト横断的にこういった構造的なやり方で集まることがはだんだんと重要になってきているように思います。
+
+[*]新しいオフィスなどのネットワーク設営を「greenfield deployment」という一方で既存のネットワーク設備を増設したりアップデートすることを「brownfield deployment」という。
+http://searchunifiedcommunications.techtarget.com/definition/greenfield-deployment
+
+
+
+we also
 think that you need intellectual
 property management tracking the code
 making sure that trademarks are owned in
@@ -610,6 +787,11 @@ open-source projects don't exist in
 isolation we can do more the important
 thing now is that none of this stuff
 works without the other stuff and this
+
+知財管理も必要だと考えています。コードを追跡したり、商標を中立ところで保有し、安全な港(safe harbor）があることを皆が理解できるようにするということです。商標であれ、著作権であれ、商標であれ、
+
+
+
  almost a
 random and you can the
 categories and what is up there but what
