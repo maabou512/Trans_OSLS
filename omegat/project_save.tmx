@@ -29,6 +29,331 @@ put it on Valentine's Day but we do want</seg>
       </tuv>
     </tu>
     <tu>
+      <note>[*]NFV vs. VNF: What's the difference?
+http://searchsdn.techtarget.com/answer/NFV-vs-VNF-Whats-the-difference
+
+
+[*]The Linux Foundation and the National Center for Women &amp; Information Technology Release Inclusive Speaker Orientation Course for Events 
+http://www.prnewswire.com/news-releases/the-linux-foundation-and-the-national-center-for-women--information-technology-release-inclusive-speaker-orientation-course-for-events-300406391.html
+</note>
+      <tuv lang="EN-US">
+        <seg>a wall
+sorry subtle wall Joe Geddes can resist
+a second shot and then provide training
+and certification programs to get more
+practitioners this is going to be
+critical because as you go up and down
+the staff we're changing nouns to verbs
+meaning that networking as one example
+you have a management orchestration
+component an SDN controller you have
+data plane services you have all these
+different pieces that make up a
+networking stack but those are nouns
+what you really need is here's how I on
+board of the NF how I orchestrate
+something and that's going to call a
+need cross-project cooperation common
+configuration language is common data
+modeling things that we all need to work
+together not just inside of our projects
+but across projects and that's what we
+really want to get done at the Linux
+Foundation and finally we think that
+diverse communities across all of these
+organizations are strong communities
+this year the Linux Foundation is going
+to provide hundreds of scholarships for
+women and people in from
+underrepresented communities to come to
+all of our events free training programs
+for them today we announced with the
+National Center for Women in Technology
+a training program an e-learning program
+for all the speakers at our events where
+you can sit down and I've taken this
+spend about an hour so learning how
+to better communicate with people who
+are different from you and you're going
+to see take this class will even give
+you a special t-shirt and some schwag
+for taking it looking at you right there
+no but take it because one of the things
+that you'll learn is that there is a
+massive amount of scientific evidence
+that shows how diverse communities
+perform better than those that are not
+how if you take a little bit of time to
+learn how to stop interrupting people to
+be a better person that you'll get
+better outcomes we're really committed
+to that at the Linux Foundation so
+that's the update we're working on a ton
+of different interesting projects
+working both within our projects and
+outside of our projects to create a
+greater shared technology investment
+which is our ultimate goal and to
+give one final thank you too and I'm
+going to go a little bit over here to
+give this special thank you uh you know
+the final thing I'd like to share today
+is thank you to someone who's been
+working at the Linux Foundation and one
+of my proudest moments when at the Linux
+Foundation if not when someone new comes
+to work at the Linux Foundation although
+I will say I was pretty cycling Brian
+belen Dorf decided to come and work but
+it's not when someone comes to the LF
+it's when someone leaves it's when
+someone leaves you know when Ian Murdock
+may he rest in peace called me up and
+said Jim I just got offered my dream job
+at Sun Microsystems he was our CTO huge
+pay increase I you know as a kid I just
+everything about sun and solaris I love
+it to go take this job I was
+proud of that I wished him well when say
+I'm Ramsey is Sam here this morning
+somewhere around here when Sam Ramsey
+called me up and said I just got offered
+a job as the vp of product for
+Google's compute platform big job I was
+so proud of the fact that the guy was
+running Cloud Foundry is now going to
+that job and Neela Jacques has been
+running our opendaylight project for
+three years one of our earlier projects
+is now leaving organization as well
+he's to bain capital to become an
+entrepreneur in residence there and I'm
+so going on
+to an opportunity where he is going to
+go create new organizations and value at
+one of the best venture capital firms in
+the valley so you can just stand up nua
+and give me a thank you don't worry
+opendaylight is in good hands he'll Rob
+with doing all the work anyway I do I
+get a pleasant to fill Rob will be the
+interim executive director and you need
+not about that project enjoy this
+week we've got so much to accomplish on
+not just this week but an open source in
+general the thing i always tell
+developers or people who are working in
+open source it's not the biggest problem
+you'll have the biggest challenge it's</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170906T094858Z" creationid="maabou" creationdate="20170906T051550Z">
+        <seg>and then provide training
+and certification programs to get more
+practitioners.
+ this is going to be
+critical because as you go up and down
+the staff we're changing nouns to verbs
+meaning that networking as one example
+you have a management orchestration
+component, an SDN controller you have
+data plane services you have all these
+different pieces that make up a
+networking stack but those are nouns.
+what you really need is here's how I on
+board a VNF how I orchestrate
+something.
+and that's going to call, 
+need cross-project cooperation common
+configuration language is common data
+modeling ,things that we all need to work
+together not just inside of our projects
+but across projects 
+
+そして、より多く現場での活用を増やすべくトレーニングと認定プログラムを提供しています。この話は非常に重要になってきていて、この図を上下に行き来するにつれて、私たちは「名詞（noun）」を「動詞（Verb）」に変えて行っているからです。ネットワークを例にすると管理のオーケストレーションコンポーネントやSDNコントローラ、データプレーンサービスなどがネットワークのスタックを作り上げることになりますが、これらは「名詞」です。ここで必要になってくるのは、どうやったらVNF[*]に対応できるか、どうやったらオーケスレートできるか？こういったところは、プロジェクト横断的な連携や共通的な設定言語や共通的なデータモデリング、が必要で、プロジェクトの中だけではなく我々皆がプロジェクト横断で一緒に取り組む必要があるものです。
+
+
+
+[*]NFV vs. VNF: What's the difference?
+http://searchsdn.techtarget.com/answer/NFV-vs-VNF-Whats-the-difference
+
+and that's what we
+really want to get done at the Linux
+Foundation and finally we think that
+diverse communities across all of these
+organizations are strong communities
+this year the Linux Foundation is going
+to provide hundreds of scholarships for
+women and people in from
+underrepresented communities to come to
+all of our events free training programs
+for them
+それが私たちがLinux Foundationとして成し遂げたいことなのです。
+横断的に多様性のある組織は強い組織といえます。今年Linux Foundationは女性や、過小評価されているコミュニティの人たちが我々のイベントに参加したり、フリーのトレーニングプログラムを受けられるように数百もの奨学金を提供していきます。
+
+today we announced with the
+National Center for Women &amp; (Infomation) Technology
+a training program an e-learning program
+for all the speakers at our events where
+you can sit down and I've taken this
+spend about an hour so learning how
+to better communicate with people who
+are different from you and you're going
+to see take this class will even give
+you a special t-shirt and some schwag
+for taking it.
+looking at you right there
+no but take it because one of the things
+that you'll learn is that there is a
+massive amount of scientific evidence
+that shows how diverse communities
+perform better than those that are not
+how if you take a little bit of time to
+learn how to stop interrupting people to
+be a better person that you'll get
+better outcomes we're really committed
+to that at the Linux Foundation 
+本日(2017年2月15日）国立女性のための情報技術センタ（National Center for Women &amp; Information Technology）と、我々のイベントの全てのスピーカーに対する、eラーニングのトレーニングプログラムについてのアナウンスをしました。私も取りましたが、1持間ほどのコースで、自分とは違う人たちとのより良いコミュニケーションの仕方について学習することができます。実際にTシャツやグッズがもらえますので受講みてください。多様性のあるコミュニティがそうでないものよりより良いという科学的根拠はたくさんあるのです。もし少しでも時間がもらえるなら、ぜひ受けてみてください。どうやったら人の話を割り込まないようにできるか、よい人にどうやればなれるか、きっといい効果があると思います。LFとしてもそこはお約束します。
+
+[*]The Linux Foundation and the National Center for Women &amp; Information Technology Release Inclusive Speaker Orientation Course for Events 
+http://www.prnewswire.com/news-releases/the-linux-foundation-and-the-national-center-for-women--information-technology-release-inclusive-speaker-orientation-course-for-events-300406391.html
+
+[*]実際のトレーニングはこちら
+https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation
+
+
+so
+that's the update we're working on a ton
+of different interesting projects
+working both within our projects and
+outside of our projects to create a
+greater shared technology investment
+which is our ultimate goal and
+ I wanna give one final thank you too and I'm
+going to go a little bit over here to
+give this special thank you uh you know
+the final thing I'd like to share today
+is thank you to someone who's been
+working at the Linux Foundation and one
+of my proudest moments when at the Linux
+Foundation if not when someone new comes
+to work at the Linux Foundation although
+I will say I was pretty psyched Brian
+Behlendorf decided to come and work but
+it's not when someone comes to the LF
+it's when someone leaves it's when
+someone leaves you know when Ian Murdock
+may he rest in peace called me up and
+said Jim I just got offered my dream job
+at Sun Microsystems he was our CTO huge
+pay increase
+
+さて、ここまでが我々の取り組みとしてのアップデート情報でした。たくさんの面白いプロジェクトが内外で起こっていて、素晴らしいシェアされたテクノロジ投資（greater shared technology investmen）を作り上げています。これこそが我々の究極のゴールです。
+最後にお礼を申し上げようと思いますがが、特別な御礼があります。今日最後にシェアしたいのは、これまでLinux Foundationで働いてきたくれた人たちにです。もっとも誇らしいと思う瞬間の一つは、新たにLinux Foundationに働きにきたときではなく、もちろん私としてはBrian Behlendorfが新しくここに来ることを決めてくれた時は興奮しましたが、それでも来てくれるときではなくて、ここを去る人がいるときです。Ian Murdock[*]、かれは今（亡くなり）安らかに眠っていますが、電話を掛けてくれた時のことを思い出します。「Jim、夢だったSun Microsystemsから仕事のオファーが来たよ」。その時彼は我々のCTOで、給料も跳ね上がりました。
+
+[*]Ian Murdock
+https://en.wikipedia.org/wiki/Ian_Murdock
+
+
+"I you know as a kid I just
+everything about sun and solaris I love
+it to go take this"  job I was
+proud of that I wished him well when say
+I'm Ramsey is Sam here this morning
+somewhere around here when Sam Ramsey
+called me up and said "I just got offered
+a job as the vp of product for
+Google's compute platform" big job I was
+so proud of the fact that the guy was
+running Cloud Foundry is now going to
+that job.
+「子供のころ、SunとSolarisのことが大好きだったんだよ。だからこの仕事を受けるよ」とても誇らしかったし、彼がうまくやってくれること心から望んでいました。Sam Ramji[*]、Samいますか？今朝Samが電話をかけてきて、「今まさにGoogleのCompute Platform製品のVPとしての仕事のオファーをもらったよ」 すごい仕事です。今までCloudFoundryを運営していた人物がそんな仕事をするようになるなんて、とても誇らしく思います。
+
+[*]Sam Ramji: Cloud Foundryの元CEO
+https://www.crunchbase.com/person/sam-ramji#/entity
+
+
+and Neela Jacques has been
+running our OpenDaylight project for
+three years one of our earlier projects
+is now leaving organization as well
+he's to bain capital to become an
+entrepreneur in residence there and I'm
+so proud  to the fact he is going on
+to an opportunity where he is going to
+go create new organizations and value at
+one of the best venture capital firms in
+the valley so you can just stand up Neela 
+and give me a thank you don't worry
+OpenDaylight is in good hands he'll Rob
+with doing all the work anyway 
+I do I get a pleasant to Phil Robb will be the
+interim executive director and you need
+not worry about that project enjoy this
+week we've got so much to accomplish on
+not just this week but an open source in
+general the thing i always tell
+developers or people who are working in
+open source it's not the biggest problem
+you'll have the biggest challenge it's not
+that you think too small it's that
+you don't think nearly big enough 
+そして、 最初の方で話したうちの一つでもであるOpenDaylightプロジェクトをこの3年運営していたNeela Jacquesもまたここを去ることになります。Bain Capitalの起業家となります。とても誇らしいことで、彼は新しい組織と価値をシリコンバレーの新しいベンチャーキャピタルで作っていくことになります。Neela ちょっと立ってもらっていいですか？（拍手）ありがとう。OpenDaylightは、Robb[*]がすべての仕事を引き受けてくれるのでまぁ、心配しないで大丈夫だと思いますよ（笑）
+これからはPhil Robbが暫定でExecutive Directorとなります。プロジェクトの心配は不要でしょう。今週のイベントをお楽しみください。今週だけでなくなくてオープンソース全体としてたくさんやるべきことがあります。私がいつも開発者やオープンソースに取り組む人たちに行っていることですが、大きな問題ではなく、皆さんが持っているのは大きな挑戦であって、小さいことを考えているということではなくて、大きなことを考えていないということです。（ it's not the biggest problem you'll have the biggest challenge it's not that you think too small it's that you don't think nearly big enough ）
+
+[*]Neela Jacques Departs OpenDaylight for Bain Capital Ventures
+https://www.sdxcentral.com/articles/news/neela-jacques-departs-opendaylight-bain-capital/2017/02/
+
+[*]Phil Robb: OpenDaylight Interim  Executive Director
+https://www.opendaylight.org/about/governance/board
+
+
+
+
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>almost a
+random and you can the
+categories and what is up there but what
+really matters is how do we work across
+these projects from a security point of
+view having good secure coding practices
+from a governance point of view how do
+you make sure you raise up the
+individual developer don't break what is
+great about open source but help
+underwrite that development so it's
+sustainable make sure that the copyright
+regimes the trademark regimes the patent
+regimes are stable transparent and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170906T045650Z" creationid="maabou" creationdate="20170906T045650Z">
+        <seg>and this is just a sample, sort almost  of a
+random and you can argure with the 
+categories and what is up there but what
+really matters is how do we work across
+these projects from a security point of
+view having good secure coding practices
+from a governance point of view how do
+you make sure you raise up the
+individual developer don't break what is
+great about open source but help
+underwrite that development so it's
+sustainable make sure that the copyright
+regimes the trademark regimes the patent
+regimes are stable transparent and adovocate for sharing in not for 
+walls,
+sorry subtle wall Joe Geddes can resist
+a second shot 
+この図はあくまでサンプルで、乱雑だと思うでしょうし、分類についても意見があるでしょう。ただ大事なのは、これらのプロジェクトを横断的に取り組んでいることで、それはよりよい安全なセキュリティを実践すべく、セキュリティの観点があります。オープンソースの良い所を壊さないようにしながらも金銭的支援で個人の開発者をどう引き上げていくかといったガバナンスの観点もありこれによって持続可能になっていきます。また著作権、商標、特許の管理体系を安定的なものとして、透明なものにし、壁を作るのではなく共有することを推奨していくのです。微妙な壁はあるという声もあるかもしれませんが（笑）
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>[*]Linux Foundation Partners with Goodwill to Offer Free Training and Lucrative Career Opportunities to Underserved Communities
 https://www.linuxfoundation.jp/news-media/announcements/2016/01/linux-foundation-partners-goodwill-offer-free-training-and
 
@@ -435,7 +760,7 @@ isolation we can do more the important
 thing now is that none of this stuff
 works without the other stuff and this</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170905T091438Z" creationid="maabou" creationdate="20170905T091153Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170905T211519Z" creationid="maabou" creationdate="20170905T091153Z">
         <seg>or whether
 it's a custom infrastructure for
 brownfield networking deployments that need 
@@ -471,13 +796,17 @@ harbor
 whether its trademarks whether its
 copyright whether its patent regimes
 we're creating structures to create this
-neutral playing field because
-open-source projects don't exist in
-isolation we can do more the important
-thing now is that none of this stuff
-works without the other stuff and this
+neutral playing field.
 
-知財管理も必要だと考えています。コードを追跡したり、商標を中立ところで保有し、安全な港(safe harbor）があることを皆が理解できるようにするということです。商標であれ、著作権であれ、商標であれ、
+知財管理も必要だと考えています。コードを追跡したり、商標を中立ところで保有し、安全な港(safe harbor）があることを皆が理解できるようにするということです。商標であれ、著作権であれ、特許管理であれ、中立な競技場を作っています。
+
+because
+open-source projects don't exist in
+isolation we can do more.
+the important
+thing now is that none of this stuff
+works without the other stuff and this　
+オープンソースのプロジェクトは分離した形で存在するわけではありません。なのでまだまだやることがあります。重要なのは、どのスタック他のスタックなしには動くことができないということです。
 
 
 </seg>
@@ -1059,6 +1388,25 @@ https://www.linuxfoundation.org/about/leadership/
 
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>that you think too small it's that
+you don't think nearly big enough we can
+all work together the great outcomes
+we've already have are only going to get
+better so have a great week and thank
+you for listening to me this morning</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170906T095102Z" creationid="maabou" creationdate="20170906T094929Z">
+        <seg> we can
+all work together the great outcomes
+we've already have are only going to get
+better so have a great week and thank
+you for listening to me this morning
+
+我々は大きな成果に向かって一緒に取り組むことができます。そうするとでのみよりよくできるのです。ご聴講ありがとうございました。</seg>
       </tuv>
     </tu>
     <tu>
